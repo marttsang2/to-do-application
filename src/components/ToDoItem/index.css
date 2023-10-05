@@ -1,0 +1,35 @@
+.todo-item-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border: solid 1px #555;
+    border-radius: 8px;
+    margin: 8px 0;
+}
+
+.todo-item-wrapper input {
+    position: absolute;
+    left: 8px;
+    padding: 0 8px;
+    border: none;
+    outline: none;
+    color: #000;
+    font-weight: 600;
+    background-color: #FFF;
+}
+
+.todo-item-buttons {
+    position: absolute;
+    right: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #000;
+}
+
+.todo-item-buttons button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}

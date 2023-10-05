@@ -1,0 +1,33 @@
+.add-todo-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    height: 40px;
+}
+
+.add-todo-input {
+    height: 100%;
+    width: 100%;
+    padding: 0px 20px;
+    background-color: #FFF;
+    border: solid 1px #555;
+    border-radius: 8px;
+}
+
+.add-todo-button {
+    position: absolute;
+    right: 8px;
+    height: 32px;
+    width: 32px;
+    padding: 4px;
+    border-radius: 32px;
+    background-color: #657ED4;
+    border: none;
+    cursor: pointer;
+}
+
+.add-todo-button img {
+    height: 100%;
+    width: 100%;
+}

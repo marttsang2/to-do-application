@@ -1,0 +1,11 @@
+.todo-list-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 2rem;
+}
+
+.todo-item-group {
+    height: 600px;
+    overflow-y: scroll;
+}
