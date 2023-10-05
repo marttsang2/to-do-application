@@ -1,4 +1,4 @@
-# InventorySystem
+# ToDoApplication
 A To-Do Application using Typescript. It uses Reactjs as frontend.
 
 ## 🎯 Features:  
