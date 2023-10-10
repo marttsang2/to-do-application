@@ -13,5 +13,5 @@ A To-Do Application using Typescript. It uses Reactjs as frontend.
 ## 🔧 Usage
 ### Build and Run
 ```
-npm run start
+npm run dev
 ```
